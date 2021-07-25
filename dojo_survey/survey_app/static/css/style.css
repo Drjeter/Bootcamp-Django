@@ -1,0 +1,11 @@
+#wrapper{
+    display:flex;
+    padding:10%;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+}
+#button{
+    margin-top: 5%;
+    width: 10%;
+}
